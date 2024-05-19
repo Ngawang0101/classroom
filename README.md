@@ -1,2 +1,3 @@
-# classroom
-Welcome to our Class 
+hello 
+welcome to our class
+console.log("Hello")
